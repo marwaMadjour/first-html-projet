@@ -1,0 +1,37 @@
+
+/*-------------Exercice------------------------------------*/
+#triangle {
+   width: 0px;
+   height: 0px;
+   border-top: 100px solid red ;
+   border-right: 100px solid transparent ;
+   border-left: 100px solid transparent ; 
+
+}
+#ovale {
+   width: 200px;
+   height: 100px;
+   background: dodgerblue;
+   border-radius: 100%; 
+
+}
+
+.virtu-cub {
+   width: 300px;
+   height: 350px;
+   background: dodgerblue;
+   border-radius: 5%;
+   padding:5px 5px 5px 5px;
+
+}
+.virtu-cub hr,img,h1,p {	
+   margin-left: 10px ;
+   margin-right: 10px ;
+}
+.virtu-cub h1,p {
+  color : white;
+}
+
+ 
+
+
